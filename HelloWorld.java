@@ -17,8 +17,8 @@ public class HelloWorld {
                 System.out.println("Exiting game ...");
                 break;
             } else {
-				System.out.println(input);
-			}
+		System.out.println(input);
+	    }
         }
     }
 }
